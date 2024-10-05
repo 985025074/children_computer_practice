@@ -1,0 +1,22 @@
+
+{
+    "1":{
+        "number_nums":[2,3],
+        "answer_range":[1,15],
+        "number_range":[1,10],
+        "way":["+","-","+-"]
+    },
+    "2":{
+        "number_nums":[2,4],
+        "answer_range":[1,15],
+        "number_range":[1,10],
+        "way":["+","-","+-"]
+    },
+    "3":{
+        "number_nums":[2,3],
+        "answer_range":[1,50],
+        "number_range":[1,50],
+        "way":["+","-","+-"]
+    }
+    
+}
